@@ -1,0 +1,53 @@
+#mobile-demo li {
+  border-bottom: 1px solid #e0e0e0;
+  width: 65%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.section-search input {
+  padding: 10px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+  font-size: 18px !important;
+}
+
+.autocomplete-content {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+
+.section-popular .card-image img,
+.section-gallery img {
+  height: 27vh;
+  object-fit: cover;
+}
+
+.section-gallery img:hover {
+  cursor: auto;
+}
+.section-popular h4 {
+  margin-bottom: 2rem;
+}
+
+.section-popular .card {
+  margin: 6px;
+}
+
+.section-icons {
+  padding-top: 6rem;
+}
+
+.section-icons .card-panel {
+  margin: 10px;
+}
+
+.section-follow a {
+  margin: 0 10px;
+}
+
+.contact-text {
+  padding-bottom: 23px;
+  padding-top: 26px;
+}
